@@ -240,7 +240,7 @@ body {
     width: 40%;
 }
 footer {
-    background: url('assets/social-bg.png');
+    background: url('../assets/social-bg.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
